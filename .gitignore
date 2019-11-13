@@ -28,3 +28,11 @@ realtime/bin/*/test_gethdr
 realtime/bin/*/test_nslookup
 realtime/bin/*/test_pthread
 realtime/bin/*/test_waitdat
+trialfun/mytrialfun_rs_mq.m
+trialfun/mytrialfun_new_alien.m
+trialfun/mytrialfun_MQ_grating.m
+trialfun/mytrialfun_ME176_colgratings.m
+trialfun/ME176_photodetector.m
+trialfun/lay.mat
+trialfun/FindTriggers_AudioCh.m
+fileio/ft_read_headshape_hacked.m
